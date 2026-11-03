@@ -1,0 +1,14 @@
+# Ejecutables
+torneo
+*.exe
+*.o
+
+# Resultados de pruebas
+resultado*.txt
+*.log
+
+# Configuracion local
+.vscode/
+
+# Respaldo del codigo original
+torneo.cpp
